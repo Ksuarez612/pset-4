@@ -1,7 +1,6 @@
 const readlineSync = require("readline-sync");
 
 let s = 0;
-
 let x = 0;
 
 console.log("")
