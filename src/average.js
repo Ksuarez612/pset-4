@@ -17,4 +17,4 @@ while (value > Number.MAX_SAFE_INTEGER || !Number.isInteger(value) || value !== 
 let average = sum / x
 average = average.toLocaleString('en', {minimumFractionDigits: 3, maximumFractionDigits: 3});
 
-console.log("\n" + average + ".");
+console.log("\n" + average + "."+ "\n");
